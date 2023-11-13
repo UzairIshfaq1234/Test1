@@ -1,0 +1,10 @@
+
+pip install Flask
+pip install tensorflow
+pip install opencv-python
+pip install numpy
+pip install pandas
+
+pip install keras
+pip install tensorflow-cpu
+
